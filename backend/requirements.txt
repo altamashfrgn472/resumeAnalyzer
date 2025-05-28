@@ -1,0 +1,6 @@
+flask==2.0.1
+flask-cors==3.0.10
+PyMuPDF==1.18.19
+scikit-learn==1.0.2
+numpy==1.21.6
+nltk==3.6.7 
